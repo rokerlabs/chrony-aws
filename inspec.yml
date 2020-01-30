@@ -1,0 +1,10 @@
+name: chrony-aws
+title: Chrony AWS
+summary: Verifies that Chrony is installed and configured for AWS
+version: 0.1.0
+maintainer: Roker Labs
+copyright: Roker Labs
+copyright_email: contact@roker.com.au
+license: Apache-2.0
+supports:
+  - os-family: linux
